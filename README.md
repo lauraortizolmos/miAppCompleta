@@ -30,3 +30,7 @@ Todas las páginas y blogs que se muestran en la red han de tener un dominio y u
 FreeMysqlHosting es un alojamiento web gratuito que con solo registarse te permite tener acceso a una base de datos remota. En este freehosting no pagaras nada, y si tienes más de un correo electrónico, puedes crearte varias cuentas y disponer de varios planes de hosting gratuito a la vez.
 
 # Resultado.
+![princ](https://user-images.githubusercontent.com/61463784/81149016-005e9200-8f43-11ea-884c-b26ca31e4a94.png)
+![crear](https://user-images.githubusercontent.com/61463784/81149042-0bb1bd80-8f43-11ea-96e3-b5c9260d62e1.png)
+![inic](https://user-images.githubusercontent.com/61463784/81149050-0f454480-8f43-11ea-8bbf-c76e56fe4663.png)
+
